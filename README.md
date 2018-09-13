@@ -6,6 +6,6 @@
 
 ### Clases
 
-* [Clase 01 - 10/09/2018](/clase-01.md)
+* [Clase 01 - 10/09/2018](/clases/clase-01.md)
 
 ### [Trabajo Práctico](/tp/README.md)
