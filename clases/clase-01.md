@@ -1,4 +1,4 @@
-<img src="https://goo.gl/forms/hFdoUTpX9g0JK0C23" />
+<img src="http://www.lslutnfra.com/images/Logo_vector_horizontal_50x248.png" />
 
 # Blog Curso Angular
 
@@ -11,7 +11,7 @@
 
 ### Trabajo Práctico
 
-* [01 - Tipos de datos](ejercicio-01.md)
+* [01 - Tipos de datos](../tp/ejercicio-01.md)
 
 ### Material relacionado
 

@@ -1,4 +1,4 @@
-<img src="https://goo.gl/forms/hFdoUTpX9g0JK0C23" />
+<img src="http://www.lslutnfra.com/images/Logo_vector_horizontal_50x248.png" />
 
 # Curso Angular
 
